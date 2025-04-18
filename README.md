@@ -4,6 +4,9 @@
 <p align="center">
   <img src="image/OVA.png" alt="Demo" width="400"/>
 </p>
+
+
+> [!NOTE]
 > A curated list of resources related to the game development process, discovered during our Game Development Journey!  
 >  
 > It mainly revolves around:  
