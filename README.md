@@ -4,22 +4,28 @@
 <p align="center">
   <img src="image/OVA.png" alt="Demo" width="400"/>
 </p>
-<<<<<<< HEAD
-> A curated list of  resources, related to game development process .
-> We found during our Game Development Journey!
-> It mainly revolves around:
-> Unreal Engine , Blender, Substance Painter and ZBrush
-> Which kinda make it less **awesome** since it needs subscription services
->  Getting  and Making Assets, Tools and other gimmicks.
+> A curated list of resources related to the game development process, discovered during our Game Development Journey!  
 >  
->  Notice that for usability, some Entries are in Multiple Catergories
-=======
->A curated list of  resources, related to game development process .
->We found during our Game Development Journey!
->>>>>>> 6a1a56ea2b2631692e668221b08761eb17c31329
+> It mainly revolves around:  
+> - Unreal Engine  
+> - Blender  
+> - Substance Painter  
+> - ZBrush
+> 
+>but also:
+>- Drawing
+>- Anatomy
+>- Digital Painting
+>- and more
+> 
+> While these tools are powerful, some require subscriptions, which can limit accessibility and make the stack a bit less **awesome**.  
+>  
+> Includes guides on getting and making assets, tools, and other useful gimmicks.  
+>  
+> ⚠️ *Note: For better usability, some entries appear in multiple categories.*
 
 
-## Our Socials
+**Socials**
 
 [LinktTree](https://linktr.ee/ova.untainted)
 
