@@ -1,5 +1,5 @@
 <h1 align="center">OVA Untainted Toolbox</h1>
-<p align="center"><i>Toolbox for ongoing Gamedevs!</i></p>
+<p align="center"><i>Toolbox for ongoing Gamedevs and Artits!</i></p>
 
 <p align="center">
   <img src="image/OVA.png" alt="Demo" width="400"/>
@@ -7,7 +7,7 @@
 
 
 > [!NOTE]
-> A curated list of resources related to the game development process, discovered during our Game Development Journey!  
+> A curated list of resources related to the game development and Art process, discovered during our Game Development Journey!  
 >  
 > It mainly revolves around:  
 > - Unreal Engine  
@@ -35,11 +35,23 @@
 --- 
 # Contents
 
+- [Unreal Engine](#unreal-engine)
+	- [Misc](#misc)
+- [3D](#3d)
+	- [Resources](#resources)
+		- [Textures](#textures)
+		- [Models](#models)
+- [Hidden Tip](#hidden-tip)
+- [2D](#2d)
+	- [Resources](#resources)
+	- [Tools](#tools)
+- [Drawing](#drawing)
+	- [References and Anatomy](#references-and-anatomy)
+
+
 `[]() - TEXT
 
 ---
-
-
 ## Game Development 
 
 - [Develop Games](https://develop.games/) - Made by Pirate Software to encourage you to make Games!
