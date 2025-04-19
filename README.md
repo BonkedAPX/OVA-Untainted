@@ -154,23 +154,22 @@
 ### Tools
 
 - [**Aesprite**](https://www.aseprite.org/) – Sprite Editor and Pixel Art Tool
-- [**Pixel Composer**](https://github.com/Ttanasart–pt/Pixel–Composer) – Powerful node–based VFX editor for pixel art
+- [**Pixel Composer**](https://github.com/Ttanasart-pt/Pixel-Composer) – Powerful node–based VFX editor for pixel art
 - [**SpriteMancer**](https://spritemancer.com/) – The ultimate spire animation Software
 - [**DitherBoy**](https://studioaaa.com/product/dither–boy/) – Dithering Software 
 - [**Marmoset Hexels**](https://store.steampowered.com/app/428340/Marmoset_Hexels_3/) – Grid based Drawing Tool
 - [**TexturePacker**](https://www.codeandweb.com/texturepacker)– Create sprite sheets and optimize your game graphics.
 - [**SpriteFuison**](https://www.spritefusion.com/editor) – Free Tool Sprite Maker
-- [**Level Designer Toolkit**](https://deepnight.net/tools/ldtk–2d–level–editor/) – 2D level editor from the director of Dead Cells
-- [**OGMOEditor**](https://ogmo–editor–3.github.io/#) – open source, project oriented level editor
-
+- [**Level Designer Toolkit**](https://deepnight.net/tools/ldtk-2d-level-editor/) – 2D level editor from the director of Dead Cells
+- [**OGMOEditor**](https://ogmo-editor-3.github.io/#) – open source, project oriented level editor
 - [**Tiled**](https://www.mapeditor.org/) – A free and open source map editor
 
 ### Resources
 
 - [**LoSpec**](https://lospec.com/) – A Pixel Art gold mine (Job Board, Palette Database, Tutorials, Resources, and more).
-- [**Saint11 Pixelart Collection**](https://saint11.art/blog/pixel–art–tutorials/ –– Saint 11 Pixel Art bundles) –  A Collection of References and more by Saint11
+- [**Saint11 Pixelart Collection**](https://saint11.art/) –  A Collection of References and more by Saint11
 - [**Open Game Art**](https://lpc.opengameart.org/) – Tons of Pixelart Resources    
-- [**Grid Paper**](https://gridpaper–maps.tumblr.com/) – A repository of maps and top–down views of levels.
+- [**Grid Paper**](https://gridpaper-maps.tumblr.com/) – A repository of maps and top–down views of levels.
 ### Fonts
 
 - [**League of Moveable Type**](https://www.theleagueofmoveabletype.com/) – open source font foundry
@@ -192,8 +191,8 @@
 
 ### Stylized and Video Games
 
-- [**Nikke Visualizer**](https://nikke–db.pages.dev/visualiser ) – Nikke Webview
-- [**TheVGResource**](https://www.vg–resource.com/) – A Huge Video Game Resource Trove
+- [**Nikke Visualizer**](https://nikke-db.pages.dev/visualiser ) – Nikke Webview
+- [**TheVGResource**](https://www.vg-resource.com/) – A Huge Video Game Resource Trove
 
 ### Effects:
 
@@ -203,15 +202,15 @@
 ### Artwork
 
 - https://public.work/
-- https://index–of.eu/Drawings/
+- https://index-of.eu/Drawings/
 - https://gallerix.org/
-- https://www.wikiart.org/en/artists–by–genre
+- https://www.wikiart.org/en/artists-by-genre
 
 ### Artists
 
 - https://www.artstation.com/bli
-- https://www.instagram.com/zleepy.gal/?hl=en
-- https://www.artstation.com/aki–yehuo
+- https://www.instagram.com/zleepy.gal
+- https://www.artstation.com/aki-yehuo
 
 ---
 
@@ -227,7 +226,7 @@
 ### Audio Resources
 
 - [**Game Audio Learning Resources**](https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0)  mega list of game audio learning resources!
-- [**The Sound Effects Bible**](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the–sound–effects–bible–ric–viers.pdf) 🟪 – A book on everything sound effects. (Fooley)
+- [**The Sound Effects Bible**](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf)  – A book on everything sound effects. (Fooley)
 
 ### Editors & Tools
 
@@ -240,7 +239,7 @@
 ## Painting & Drawing
 
 - [**Solo Artist Curriculum**](https://www.soloartcurriculum.com/) – A curriculum built for the self-taught artist
-- [**Lines and Edges**](https://bryan–sturm.github.io/articles/lines–and–edges/) – A neat style guide for using edges and lines effectively
+- [**Lines and Edges**](https://bryan-sturm.github.io/articles/lines-and-edges/) – A neat style guide for using edges and lines effectively
 - [**Art Socials Resources**](https://www.notion.so/woolblossom/Art–Industry–Resources–86e6733162f24c26829aa65961f461e3) – Crazy Huge Collection of Art Resources
 - [**Chaotics Crawling**](https://www.chaoticscrawling.com/learn)
 
@@ -254,7 +253,7 @@
 ### Anatomy & Poses
 
 - [**ReferenceAngle**](http://referenceangle.com/) – Dynamic References of Angles (with emotions etc.)
-- [**Line of Action**](https://line–of–action.com/) – A lot of References from Basic Shapes to Faces and Expression
+- [**Line of Action**](https://line-of-action.com/) – A lot of References from Basic Shapes to Faces and Expression
 - [**QuickPoses**](https://quickposes.com/en) – A cool Tool to get some Random Poses to learn from
 - [**Posemaniacs**](https://www.posemaniacs.com/) – 3D Anatomy and Poses 
 - [**SketchDaily Ref Tool**](https://www.sketchdaily.net/) Daily Challenges of Sketching
