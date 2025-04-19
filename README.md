@@ -140,10 +140,10 @@
 - [How to Animate Your 3D Characters Fast](https://www.youtube.com/watch?v=sTOgDe3EmQ0) – CG BOOST ANIMATION BLENDER
 
 ### Rest
-– [**HumbleBundle Software Deals**](https://www.humblebundle.com/software) – Watchout for Asset / Course Deals
-– [**ArtStation Marketplace**](https://www.artstation.com/marketplace/) – Free Courses !
-– [**FlippedNormals**](https://flippednormals.com/) – Shop with alot of Resources
-– [**OpenGameArt**](https://opengameart.org/) -  
+- [**HumbleBundle Software Deals**](https://www.humblebundle.com/software) – Watchout for Asset / Course Deals
+- [**ArtStation Marketplace**](https://www.artstation.com/marketplace/) – Free Courses !
+- [**FlippedNormals**](https://flippednormals.com/) – Shop with alot of Resources
+- [**OpenGameArt**](https://opengameart.org/) 
 
 
 
