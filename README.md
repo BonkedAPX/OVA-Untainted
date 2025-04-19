@@ -60,7 +60,7 @@
 - [**Extra Credits Youtube Channel**](https://www.youtube.com/watch?v=zQvWMdWhFCc)  – Tons of useful Videos about Game Design and Concepts
 - [**Game Maker's Toolkit**](https://www.youtube.com/channel/UCqJ–Xo29CKyLTjn6z2XwYAw) – deep dive into game design–, level design , and game production
 - [**GMKT's Platformer Toolkit**](https://gmtk.itch.io/platformer–toolkit)– Interactive Game Made Game Maker Toolkit about Game Design
-- [**Pattern Language for Game Design**](https://patternlanguageforgamedesign.com/) – Interactive [**Pattern Library**](https://patternlanguageforgamedesign.com/PatternLibraryApp/PatternLibrary/) and [**Games Reference**](https://patternlanguageforgamedesign.com/PatternLibraryApp/GamesReference/) where you can share patterns with developers throughout the world.
+- [**Pattern Language for Game Design**](https://patternlanguageforgamedesign.com/) – Interactive Pattern Library and Game References
 - [**The Evolution of Trust**](https://ncase.me/trust/) – An interactive walkthrough of some game theory. 
 - [**Game Developer Articles**](https://www.gamedeveloper.com/) – TechInfos about Game Development
 
