@@ -23,13 +23,9 @@
 ---
 ## Socials  
 
-– [**LinkTree**](https://linktr.ee/ova.untainted)  – **Discord** – **Pinterest** 
+[**LinkTree**](https://linktr.ee/ova.untainted)  – **Discord** – **Pinterest** 
 
 ---
-## Contents
-
----
-
 ## Game Development 
 
 - [**Develop Games**](https://develop.games/) – Pirate Software’s dev motivation hub.
@@ -109,17 +105,14 @@
 - [**Kenney 3D Assets**](https://kenney.nl/assets) – Multiple Models, 2D, 3D , Ui Audio, Textures 
 - [**TheVGResource**](https://www.vg–resource.com/) – A Huge Video Game Resource Trove
 
-###  Tools
+### Tools
 - [**Itch.io**](https://itch.io/tools) – Indie tools and assets.
 - [**Goxel**](https://goxel.xyz/) – 3D voxel editor Goxel.
 - [**Blockbench**](https://www.blockbench.net/) – Voxel Software
 
-### Asset Libraries
-
 ### Animation and MoCap
 
 - [**Mixamo**](https://www.mixamo.com/) – Free character rigging + animations.
-
 #### Models
 - [**BlenderKit (Free filter)**](https://www.blenderkit.com/asset–gallery?query=order:–score+availability:free) – Models, Textures and Shaders for Blender
 - [**PolyHaven**](https://polyhaven.com/) – CC0 Public Assets ( Models, Textures etc.)
@@ -159,10 +152,11 @@
 ## 2D Tools & Resources
 
 ### Tools
+
 - [**Aesprite**](https://www.aseprite.org/) – Sprite Editor and Pixel Art Tool
 - [**Pixel Composer**](https://github.com/Ttanasart–pt/Pixel–Composer) – Powerful node–based VFX editor for pixel art
 - [**SpriteMancer**](https://spritemancer.com/) – The ultimate spire animation Software
-- [**DitherBoy**](https://studioaaa.com/product/dither–boy/)) – Dithering Software 
+- [**DitherBoy**](https://studioaaa.com/product/dither–boy/) – Dithering Software 
 - [**Marmoset Hexels**](https://store.steampowered.com/app/428340/Marmoset_Hexels_3/) – Grid based Drawing Tool
 - [**TexturePacker**](https://www.codeandweb.com/texturepacker)– Create sprite sheets and optimize your game graphics.
 - [**SpriteFuison**](https://www.spritefusion.com/editor) – Free Tool Sprite Maker
@@ -172,23 +166,23 @@
 - [**Tiled**](https://www.mapeditor.org/) – A free and open source map editor
 
 ### Resources
+
 - [**LoSpec**](https://lospec.com/) – A Pixel Art gold mine (Job Board, Palette Database, Tutorials, Resources, and more).
 - [**Saint11 Pixelart Collection**](https://saint11.art/blog/pixel–art–tutorials/ –– Saint 11 Pixel Art bundles) –  A Collection of References and more by Saint11
 - [**Open Game Art**](https://lpc.opengameart.org/) – Tons of Pixelart Resources    
 - [**Grid Paper**](https://gridpaper–maps.tumblr.com/) – A repository of maps and top–down views of levels.
 ### Fonts
+
 - [**League of Moveable Type**](https://www.theleagueofmoveabletype.com/) – open source font foundry
 - [**Font Library**](https://fontlibrary.org/) –  Fonts Fonts Fonts
 
 ### Animation
 
-[**Principle of Animation**](https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd) –  12 Principle of Animation
-
+- [**Principle of Animation**](https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd) – 12 Principle of Animation
 
 ---
 
 ## Inspiration
-
 
 - [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/Main_Page)  –
 - [**CharacterDesignReferences**](https://characterdesignreferences.com/) –
@@ -236,6 +230,7 @@
 - [**The Sound Effects Bible**](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the–sound–effects–bible–ric–viers.pdf) 🟪 – A book on everything sound effects. (Fooley)
 
 ### Editors & Tools
+
 - [**Audacity**](http://audacity.sourceforge.net/) – Audio Tools for Cutting 
 - [**sfxr.me**](https://sfxr.me/) – Web SFX generator
 - https://sfbgames.itch.io/chiptone
@@ -249,7 +244,7 @@
 - [**Art Socials Resources**](https://www.notion.so/woolblossom/Art–Industry–Resources–86e6733162f24c26829aa65961f461e3) – Crazy Huge Collection of Art Resources
 - [**Chaotics Crawling**](https://www.chaoticscrawling.com/learn)
 
-## Resources
+### Resources
 
 - [**Drawabox**](https://drawabox.com/) –  Starting Point into Drawing in Perspective
 - [**Marc Brunet (YouTube)**](https://www.youtube.com/user/bluefley00) – Ex–Blizzard Digital Artist, with lots of Tutorials
@@ -257,6 +252,7 @@
 - [**VIShopper**](https://www.vishopper.com/) –  Tons of Reference Images
 
 ### Anatomy & Poses
+
 - [**ReferenceAngle**](http://referenceangle.com/) – Dynamic References of Angles (with emotions etc.)
 - [**Line of Action**](https://line–of–action.com/) – A lot of References from Basic Shapes to Faces and Expression
 - [**QuickPoses**](https://quickposes.com/en) – A cool Tool to get some Random Poses to learn from
