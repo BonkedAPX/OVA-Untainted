@@ -56,7 +56,7 @@
 #### Design and Concepts
 
 - [**Gamedesigning.org**](https://www.gamedesigning.org/learn/game–design–document/) –  How to Write Your First Game Design Document
-- [**Learning Essential Game Design Terms**](https://designoriented.net/wheel – Handy interactive tool for learning essential game design terms) –  Interactive tool for learning  game design terms
+- [**Learning Essential Game Design Terms**](https://designoriented.net/wheel) – Interactive tool for learning essential game design 
 - [**Extra Credits Youtube Channel**](https://www.youtube.com/watch?v=zQvWMdWhFCc)  – Tons of useful Videos about Game Design and Concepts
 - [**Game Maker's Toolkit**](https://www.youtube.com/channel/UCqJ–Xo29CKyLTjn6z2XwYAw) – deep dive into game design–, level design , and game production
 - [**GMKT's Platformer Toolkit**](https://gmtk.itch.io/platformer–toolkit)– Interactive Game Made Game Maker Toolkit about Game Design
