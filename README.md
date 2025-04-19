@@ -45,9 +45,9 @@
 - [**William Faucher's Youtube Channel**](https://www.youtube.com/@WilliamFaucher) – Pretty cool Channel revolving around Unreal 5
 - [**GameFromScratch**](https://gamefromscratch.com/) – GameDev Portal with News, Tutorials and More
 - [**Blueprintue**](https://blueprintue.com/) – Share and find Blueprints
-- [**Allar’s UE5 Style Guide**](https://github.com/Allar/ue5–style–guide/tree/v2) –  A pretty Solid Style Guide for Unreal Engine 5
-- [**FAB Launcher – Limited Time Free**](https://www.fab.com/limited–time–free) – Free Assets and more , periodically free
-- [**Awesome Unreal GitHub**](https://github.com/insthync/awesome–unreal) –  Awesome Github Collection
+- [**Allar’s UE5 Style Guide**](https://github.com/Allar/ue5-style-guide/tree/v2) –  A pretty Solid Style Guide for Unreal Engine 5
+- [**FAB Launcher – Limited Time Free**](https://www.fab.com/limited-time-free) – Free Assets and more , periodically free
+- [**Awesome Unreal GitHub**](https://github.com/Coop56/awesome-unreal) –  Awesome Github Collection
 #### Blueprint Templates
 
 - [**TP 2D Sidescroller**](https://github.com/CobraCodeDev/TP_2DSideScrollerBP) –  2D Side Scroller Blueprint Unreal Template
@@ -55,18 +55,18 @@
 ### Theory
 #### Design and Concepts
 
-- [**Gamedesigning.org**](https://www.gamedesigning.org/learn/game–design–document/) –  How to Write Your First Game Design Document
+- [**Gamedesigning.org**](https://www.gamedesigning.org/learn/game-design-document/) –  How to Write Your First Game Design Document
 - [**Learning Essential Game Design Terms**](https://designoriented.net/wheel) – Interactive tool for learning essential game design 
-- [**Extra Credits Youtube Channel**](https://www.youtube.com/watch?v=zQvWMdWhFCc)  – Tons of useful Videos about Game Design and Concepts
-- [**Game Maker's Toolkit**](https://www.youtube.com/channel/UCqJ–Xo29CKyLTjn6z2XwYAw) – deep dive into game design–, level design , and game production
-- [**GMKT's Platformer Toolkit**](https://gmtk.itch.io/platformer–toolkit)– Interactive Game Made Game Maker Toolkit about Game Design
+- [**Extra Credits Youtube Channel**](https://www.youtube.com/watch?v-zQvWMdWhFCc)  – Tons of useful Videos about Game Design and Concepts
+- [**Game Maker's Toolkit**](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw) – deep dive into game design–, level design , and game production
+- [**GMKT's Platformer Toolkit**](https://gmtk.itch.io/platformer-toolkit)– Interactive Game Made Game Maker Toolkit about Game Design
 - [**Pattern Language for Game Design**](https://patternlanguageforgamedesign.com/) – Interactive Pattern Library and Game References
 - [**The Evolution of Trust**](https://ncase.me/trust/) – An interactive walkthrough of some game theory. 
 - [**Game Developer Articles**](https://www.gamedeveloper.com/) – TechInfos about Game Development
 
 #### Level Design
 
-- [**Level Design and How To Get Into It**](https://80.lv/articles/level–design–tips–tricks–and–how–to–get–into–it/)  – An introduction to level design
+- [**Level Design and How To Get Into It**](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/)  – An introduction to level design
 - [**Level Design Book**](https://book.leveldesignbook.com/introduction) –  Level Design Book from A–Z
 
 #### UI/UX
@@ -86,7 +86,7 @@
 
 ### Marketing
 
-- [**BreakingTheWheel**](https://www.breakingthewheel.com/getting–started–breaking–wheel/) – Huge Resource hot to market your Game
+- [**BreakingTheWheel**](https://www.breakingthewheel.com/getting-started-breaking-wheel/) – Huge Resource hot to market your Game
 
 ### Math for Game Dev
 
@@ -103,7 +103,7 @@
 
 - [**ArtStation Learning**](https://www.artstation.com/learning) – Free Tutorials for multiple Topics!
 - [**Kenney 3D Assets**](https://kenney.nl/assets) – Multiple Models, 2D, 3D , Ui Audio, Textures 
-- [**TheVGResource**](https://www.vg–resource.com/) – A Huge Video Game Resource Trove
+- [**TheVGResource**](https://www.vg-resource.com/) – A Huge Video Game Resource Trove
 
 ### Tools
 - [**Itch.io**](https://itch.io/tools) – Indie tools and assets.
@@ -114,7 +114,7 @@
 
 - [**Mixamo**](https://www.mixamo.com/) – Free character rigging + animations.
 #### Models
-- [**BlenderKit (Free filter)**](https://www.blenderkit.com/asset–gallery?query=order:–score+availability:free) – Models, Textures and Shaders for Blender
+- [**BlenderKit (Free filter)**](https://www.blenderkit.com/asset-gallery?query=order:-score+availability:free) – Models, Textures and Shaders for Blender
 - [**PolyHaven**](https://polyhaven.com/) – CC0 Public Assets ( Models, Textures etc.)
 - [**Quaternius**](https://quaternius.com/) – Animations , Assets , Models etc.
 - [**TheBaseMesh**](https://thebasemesh.com) – 100% Free. CC0 License. Bases Meshes
@@ -123,7 +123,7 @@
 
 #### Textures
 - [**AmbientCG**](https://ambientcg.com/) –  Free 3D Assets for Everyone and Everything.
-- [**CC0 Textures**](https://cc0–textures.com/) – A lot of CC0 Textures
+- [**CC0 Textures**](https://cc0-textures.com/) – A lot of CC0 Textures
 - [**3DTextures.me**](https://3dtextures.me/) – Free PBR textures and Stylized textures with Color.
 - [**CGBookcase**](https://cgbookcase.com/) – Free Photorealistic  Textures
 - [**PolyHaven**](https://polyhaven.com/) – CC0 Public Assets ( Models, Textures etc.)
@@ -131,8 +131,7 @@
 - [**Plaintextures**](https://www.plaintextures.com/) – Collection of (PBR)Textures, Pictures, Patterns and Brushes 
 - [**Textures.com**](https://www.textures.com/free) – Tons of Texture Assets 
 - [**PublicDomainTextures**](https://publicdomaintextures.com/) – Public Domain Texture Collection
-#### Icons
-- [**Game–icons.net**](https://game–icons.net/) – Over 4.000 Free Game Icons
+
 
 #### Animation
 - [**Imphenzia Animation Tutorials**](https://www.youtube.com/watch?v=XkiWBSSuxLw)
@@ -156,7 +155,7 @@
 - [**Aesprite**](https://www.aseprite.org/) – Sprite Editor and Pixel Art Tool
 - [**Pixel Composer**](https://github.com/Ttanasart-pt/Pixel-Composer) – Powerful node–based VFX editor for pixel art
 - [**SpriteMancer**](https://spritemancer.com/) – The ultimate spire animation Software
-- [**DitherBoy**](https://studioaaa.com/product/dither–boy/) – Dithering Software 
+- [**DitherBoy**](https://studioaaa.com/product/dither-boy/) – Dithering Software 
 - [**Marmoset Hexels**](https://store.steampowered.com/app/428340/Marmoset_Hexels_3/) – Grid based Drawing Tool
 - [**TexturePacker**](https://www.codeandweb.com/texturepacker)– Create sprite sheets and optimize your game graphics.
 - [**SpriteFuison**](https://www.spritefusion.com/editor) – Free Tool Sprite Maker
@@ -174,6 +173,9 @@
 
 - [**League of Moveable Type**](https://www.theleagueofmoveabletype.com/) – open source font foundry
 - [**Font Library**](https://fontlibrary.org/) –  Fonts Fonts Fonts
+
+#### Icons
+- [**Game-icons.net**](https://game-icons.net/) – Over 4.000 Free Game Icons
 
 ### Animation
 
@@ -262,7 +264,7 @@
 ### E-Books
 
 - [**Figure Drawing by Loomis**](https://archive.org/details/loomis_FIGURE_draw)
-- [**Drawing the HEad by Loomis**](https://ia801403.us.archive.org/2/items/andrew–loomis–drawing–the–head–hands/andrew–loomis–drawing–the–head–hands.pdf)
+- [**Drawing the Head and Hands by Loomis**](https://archive.org/details/andrew-loomis-drawing-the-head-hands)
 
 
 ---
