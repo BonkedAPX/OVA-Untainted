@@ -27,8 +27,6 @@
 
 ---
 ## Game Development 
-
-- [**Develop Games**](https://develop.games/) – Pirate Software’s dev motivation hub.
 - [**Engines Database**](https://enginesdatabase.com/)–  Database of all available Game Engines
 
 ### Prototyping
